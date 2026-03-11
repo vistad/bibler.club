@@ -1,0 +1,1 @@
+var c = document.getElementById("content"); function resizeText(multiplier) { if (c.style.fontSize == "") { c.style.fontSize = "1.0em"; } c.style.fontSize = parseFloat(c.style.fontSize) + (multiplier * 0.1) + "em"; } 

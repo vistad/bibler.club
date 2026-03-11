@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /player/
+Disallow: /testcase/
+Disallow: /edit.html
+Disallow: antiblock.html 
